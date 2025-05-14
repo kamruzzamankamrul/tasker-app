@@ -14,7 +14,7 @@ A simple and efficient task management app that helps users organize their daily
 
 ## 🛠 Tech Stack
 
-- **Frontend:** HTML, Tailwindcss, JavaScript, React applicable.
+- **Frontend:** HTML, Tailwindcss, JavaScript, React .
 
 ---
 
